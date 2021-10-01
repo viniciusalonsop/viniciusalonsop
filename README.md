@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com suporte de rede
 - 🌱 Estou estudando Linguagem de programação, segurança da informação e Python
-- 🤔 Estou precisando de ajuda para estágio de segurança da informação.
+- 🤔 Estou precisando de um estágio de segurança da informação.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
