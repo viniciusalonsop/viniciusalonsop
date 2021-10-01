@@ -1,4 +1,4 @@
-## Olá! Eu sou Vinicius Alonso 
+## Hello, I'm Vinicius Alonso 
 
 - 🧐 looking for information security internship
 - 🎓 'Information Security' Student
